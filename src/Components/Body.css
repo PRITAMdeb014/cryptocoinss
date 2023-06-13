@@ -1,0 +1,26 @@
+*{
+    background-color: #080B2D;
+}
+.Hotsale{
+    width: 30%;
+    height : 50%;
+    margin-left: 60%;
+    margin-top: -30%;
+    
+}
+.estateimg{
+    width: 30%;
+    height: 30%;
+
+}
+.cryptoimg{
+    width: 40%;
+    height: 60%;
+}
+.estatediv{
+    margin-top: 20%;
+    margin-left: 10%;
+}
+.cryptodiv{
+    margin-left: 10%;
+}

@@ -1,0 +1,28 @@
+.navbar-custom{
+    background-color: #000037;
+}
+span{
+    color: white;
+}
+
+.shift{
+    padding-left: 27%;
+}
+button{
+    margin-right: 30%;
+}
+.btn1{
+    background-color: #000037;
+    color: white;
+}
+img{
+width: 100%;
+}
+.logo{
+    width: 70%;
+    height: 40%;
+    margin-left: 60%;
+}
+.social{
+    width: 12%;
+}
